@@ -1,0 +1,44 @@
+[
+    {
+        "missing_indicator": "Planning",
+        "questions": [
+            "How did you plan the work?",
+            "How did you prioritise your tasks?"
+        ]
+    },
+    {
+        "missing_indicator": "Ownership",
+        "questions": [
+            "What decisions did you make yourself?",
+            "What responsibility did you personally take?"
+        ]
+    },
+    {
+        "missing_indicator": "Execution",
+        "questions": [
+            "Walk me through what you actually did.",
+            "How did you execute the plan?"
+        ]
+    },
+    {
+        "missing_indicator": "Outcome",
+        "questions": [
+            "What was the final outcome?",
+            "How did you know you were successful?"
+        ]
+    },
+    {
+        "missing_indicator": "Risk Management",
+        "questions": [
+            "What risks did you identify?",
+            "How did you handle them?"
+        ]
+    },
+    {
+        "missing_indicator": "Reflection",
+        "questions": [
+            "What would you do differently today?",
+            "What did you learn from that experience?"
+        ]
+    }
+]

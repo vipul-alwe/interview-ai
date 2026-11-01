@@ -1,0 +1,71 @@
+{
+  "id": "result_orientation",
+  "name": "Result Orientation",
+  "version": "1.0",
+
+  "description": "Evaluates the candidate's ability to take ownership, execute effectively and achieve measurable outcomes.",
+
+  "question_types": [
+    "behavioural",
+    "situational"
+  ],
+
+  "indicators": [
+    {
+      "id": "planning",
+      "name": "Planning",
+      "description": "Creates a structured execution plan.",
+      "weight": 0.15
+    },
+    {
+      "id": "ownership",
+      "name": "Ownership",
+      "description": "Assumes responsibility without blaming others.",
+      "weight": 0.20
+    },
+    {
+      "id": "initiative",
+      "name": "Initiative",
+      "description": "Acts without waiting for direction.",
+      "weight": 0.10
+    },
+    {
+      "id": "execution",
+      "name": "Execution",
+      "description": "Successfully carries out actions.",
+      "weight": 0.20
+    },
+    {
+      "id": "outcome",
+      "name": "Outcome",
+      "description": "Produces measurable results.",
+      "weight": 0.20
+    },
+    {
+      "id": "reflection",
+      "name": "Reflection",
+      "description": "Explains lessons learned.",
+      "weight": 0.05
+    },
+    {
+      "id": "risk_management",
+      "name": "Risk Management",
+      "description": "Identifies or mitigates risks.",
+      "weight": 0.10
+    }
+  ],
+
+  "follow_up_templates": [
+    "What was your exact role?",
+    "How did you measure success?",
+    "What risks did you identify?",
+    "What would you do differently?",
+    "How did you prioritize your work?"
+  ],
+
+  "llm": {
+    "temperature": 0.0,
+    "max_tokens": 800,
+    "output_schema": "BehavioralFactResponse"
+  }
+}

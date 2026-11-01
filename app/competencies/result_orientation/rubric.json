@@ -1,0 +1,91 @@
+[
+    {
+        "indicator": "Planning",
+        "strong_signals": [
+            "Created a project plan",
+            "Defined timelines",
+            "Used planning tools",
+            "Prioritised work"
+        ],
+        "weak_signals": [
+            "General planning mentioned",
+            "Some organisation"
+        ],
+        "negative_signals": [
+            "No planning",
+            "Reactive approach"
+        ]
+    },
+    {
+        "indicator": "Ownership",
+        "strong_signals": [
+            "Took responsibility",
+            "Continued despite lack of supervision",
+            "Made decisions independently"
+        ],
+        "weak_signals": [
+            "Needed occasional guidance"
+        ],
+        "negative_signals": [
+            "Shifted responsibility",
+            "Waited for instructions"
+        ]
+    },
+    {
+        "indicator": "Execution",
+        "strong_signals": [
+            "Executed the plan",
+            "Completed deliverables",
+            "Managed multiple priorities"
+        ],
+        "weak_signals": [
+            "Execution described vaguely"
+        ],
+        "negative_signals": [
+            "Did not execute",
+            "Abandoned work"
+        ]
+    },
+    {
+        "indicator": "Outcome",
+        "strong_signals": [
+            "Delivered on time",
+            "Met client expectations",
+            "Achieved measurable business results"
+        ],
+        "weak_signals": [
+            "Outcome mentioned without evidence"
+        ],
+        "negative_signals": [
+            "No outcome",
+            "Failed objective"
+        ]
+    },
+    {
+        "indicator": "Risk Management",
+        "strong_signals": [
+            "Identified constraints",
+            "Mitigated risks",
+            "Adjusted approach"
+        ],
+        "weak_signals": [
+            "Acknowledged issues"
+        ],
+        "negative_signals": [
+            "Ignored risks"
+        ]
+    },
+    {
+        "indicator": "Reflection",
+        "strong_signals": [
+            "Explained lessons learned",
+            "Described improvements"
+        ],
+        "weak_signals": [
+            "Minimal reflection"
+        ],
+        "negative_signals": [
+            "No reflection"
+        ]
+    }
+]
